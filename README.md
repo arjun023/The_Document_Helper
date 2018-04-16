@@ -13,7 +13,8 @@ _This Project contains 3 modules under the name "The_document_helper" namely :-
 
 (1) Module : CV Assistant-----
 
-_Description : Analysing pdf and identifying the maximum occuring keywords , then using the keywords to check for curse words                  and giving sugestions to replace them
+_Description : Analysing pdf and identifying the maximum occuring keywords , then using the keywords to check for curse 
+               words (with progress bar to show active process) and giving sugestions to replace them
              : ( internet connectivity required )
              : IT gives meaning and synonyms of the curse words ,suggestive words for replacing the curse words.
              
